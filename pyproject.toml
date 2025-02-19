@@ -1,0 +1,7 @@
+[project]
+name = "testcollatorkata"
+version = "0.1.0"
+description = "GeePaw Hill's Kata"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = []
