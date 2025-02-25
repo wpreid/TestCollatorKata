@@ -1,5 +1,4 @@
 from typing import Literal
-TestStatus = Literal["Pass","Fail","Disable","Abort","Unrun"]
 
 
 def main():
